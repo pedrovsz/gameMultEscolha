@@ -1,0 +1,37 @@
+taxista da máfia
+
+--CENA INICIAL--
+bate na porta
+principal não acorda 
+bate ate ele acordar
+personagem2 entra e vê casa uma bagunça
+principal ainda no sofá mofado
+personagem2 conta oportunidade de emprego
+discutem sobre como pode ser ruim
+personagem2 fala da boa grana
+principal reflete sobre sua vida e em como voltar a tela melhor
+aceita emprego
+
+--CENA CARRO 1--
+principal entra no carro
+ajeita retrovisor e põe o cinto
+o celular toca 
+o personagem2 diz como funcionara e que a primeira semana é um teste, passa o endereço e a pessoa que buscara
+explica como ela é para onde ela vai e que cuidados tomar
+liga o carro e vai até seu destino
+
+
+--CENA PERSONAGEM3 CARRO--
+principal estaciona o carro meio longe
+personagem3 espera principal chegar mais perto
+não aproxima
+personagem3 encaminha ao carro bravo e entra no carro bravo
+o personagem3 briga com principal pois tem que estacionar mais perto
+personagem3 duvida das habilidades do principal
+personagem3 manda o principal seguir a rota
+personagem3 começa a discutir no telefone
+principal tenta ouvir a conversa
+não consegue e personagem3 sai irritado no destino
+
+
+
